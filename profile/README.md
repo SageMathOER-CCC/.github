@@ -1,1 +1,1 @@
-## Welcome to the Chicago City College Open Educational Resource for SageMath
+## Welcome to the Chicago City Colleges Open Educational Resource for SageMath
