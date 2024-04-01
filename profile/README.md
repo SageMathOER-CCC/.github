@@ -16,8 +16,8 @@ Our first textbook focuses on discrete mathematics. SageMath allows students to 
 
 We invite educators, students, and mathematics and computer science enthusiasts to collaborate with us. Your feedback, content suggestions, and contributions to the textbook development are welcome. Together, we can transform math education!
 
-- Explore the textbook: [Link to the textbook coming soon]
-- Contribute to our project: [coming soon]
-- Provide feedback or suggestions: [coming soon]
+- Explore the online textbook [here](https://sagemathoer-ccc.github.io/sage-discrete-math/Discrete-Math-with-SageMath.html). This is a work in progress! We are actively developing the textbook and welcome your feedback and contributions.
+- Provide feedback or suggestions by opening an issue [here](https://github.com/SageMathOER-CCC/sage-discrete-math/issues).
+- Contribute to our project. Fork the repository [here](https://github.com/SageMathOER-CCC/sage-discrete-math).
 
 Join us in making math education more interactive, accessible, and engaging with the power of SageMath!
