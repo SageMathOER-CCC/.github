@@ -4,6 +4,9 @@
 
 We are developing essential resources for students to use mathematical software effectively. Our goal is to streamline the learning process with SageMath. This approach helps students focus more on mathematics and reduces the friction of learning how to code. Our resources are designed for all math students, regardless of programming experience. SageMath covers a range of mathematical areas such as algebra, geometry, number theory, cryptography, numerical computation, calculus, and more. Currently, we are developing an online textbook for college-level discrete math courses, utilizing SageMath.
 
+Please visit the website for our work in progress by following this link:
+[Discrete Math with SageMath](https://sagemathoer-ccc.github.io/sage-discrete-math/Discrete-Math-with-SageMath.html) by Zunaid Ahmed, Hellen Colman, Samuel Lubliner
+
 ### What is SageMath?
 
 [SageMath](https://www.sagemath.org/) is a free, open-source mathematics software system, based on Python. It integrates well-known open-source packages that include NumPy, SciPy, matplotlib, Sympy, Maxima, GAP, FLINT, R, and many [others](https://doc.sagemath.org/html/en/reference/spkg/). SageMath is fulfilling the need for a robust and free alternative to proprietary software like Magma, Maple, Mathematica, and Matlab.
